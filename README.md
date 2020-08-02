@@ -7,7 +7,7 @@ This is recreation of popular discord bot [ZeroTwo](https://top.gg/bot/zerotwo) 
 
 # Requirements
 
-- [Jdk 14+](https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html
+- [Jdk 14+](https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html)
 - [Lavalink](https://github.com/Frederikam/Lavalink)
 
 I'll probably add onto this after pushing finished work.
