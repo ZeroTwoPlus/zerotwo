@@ -2,14 +2,13 @@
 
 # About
 
-This is recreation of popular discord bot [ZeroTwo](https://top.gg/bot/zerotwo) made in Typescript for easy self hosting. I made this because I like the bot, but wanted to have my avatar, my game status and stuff like that. If you're planning to use this and then sell it as your own work while also copying already existing bot don't do it or at least give proper credits to owner of ZeroTwo.
+This is recreation of popular discord bot [ZeroTwo](https://top.gg/bot/zerotwo) made in Java for easy self hosting. I made this because I like the bot, but wanted to have my avatar, my game status and stuff like that. If you're planning to use this and then sell it as your own work while also copying already existing bot don't do it or at least give proper credits to owner of ZeroTwo.
 
 
 # Requirements
 
-- [Node 10+](https://nodejs.org/en/)
-- [Typescript 3.8+](https://www.npmjs.com/package/typescript)
-- [Java 13](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html)
+- [Jdk 14+](https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html
+- [Lavalink](https://github.com/Frederikam/Lavalink)
 
 I'll probably add onto this after pushing finished work.
 
